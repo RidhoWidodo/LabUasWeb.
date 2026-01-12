@@ -202,3 +202,11 @@ Modul untuk pengguna biasa/customer
 - Footer Informasi – Slogan toko, nomor kontak, menu navigasi (Home, dll)
 - Fitur Pencarian Global – Kotak search di footer/header
 - Status Keranjang Real-time – Jumlah item update sesuai isi keranjang
+
+# Hasil Akhir Tampilan Versi Mobilenya.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a8d7547-86b2-4f55-959e-7ae9d9693701" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/69079a22-c230-4673-a043-a705d037e19e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f755839d-1d13-47cd-88d4-d39c63e42061" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/20dda580-e9db-40d8-afb7-417e06206793" />
+
+
