@@ -143,11 +143,62 @@ Modul untuk pengguna biasa/customer
 ***Jadi Kesimpulan: Ini adalah struktur aplikasi web e-commerce/manajemen inventaris spare part dengan sistem multi-user (admin dan customer), dilengkapi dengan shopping cart, manajemen produk, dan sistem autentikasi.***
 
 # Hasil OutPut dan Penjelasannya 
-# ***Tampialan Loggin Admnin/User***
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88371c9d-655d-441a-ab71-cec7385aab35" />
+
+**Tampialan Loggin Admnin/User**
+ - Admin: kalau login sebagai admin, masuk ke panel khusus
+ - User biasa: kalau login sebagai user, bisa belanja
+ - Tamu: bisa lihat produk tapi gak bisa belanja (harus daftar dulu)
 
 # ***Tampilan Home***
 <img width="959" height="328" alt="image" src="https://github.com/user-attachments/assets/9c058a10-22cb-46e0-a4fe-2dcaee8293ab" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a815169e-5e15-4b8b-906a-c903805a44c5" />
 
+ - **1. Kategori Sparepart** – Pengelompokan produk berdasarkan jenisnya seperti:
+     - Aksesoris
+     - Kelistrikan
+     - Mesin
+     - Rangka & Body
+     - Rem
+     - Suspensi
 
+ - **2. Sparepart Terbaru** – Menampilkan produk baru yang tersedia dengan gambar dan nama singkat.
+
+ - **3. Pencarian Produk** – Ada kolom pencarian untuk menemukan sparepart dengan mudah.
+
+ - **4. Deskripsi Produk** – Setiap produk memiliki nama, keterangan singkat, dan label "Original" untuk menandakan keaslian.
+
+ - **5. Penawaran atau Tagline** – Bagian yang menjelaskan keunggulan toko: sparepart original, kualitas terbaik, harga terjangkau.
+
+ - **6. Tombol Aksi – Seperti:**
+    - "Belanja Sekarang"
+    - "Lihat Kategori"
+    - "Lihat Detail" pada setiap produk 
+
+# ***Tampilan Halaman Sparepart***
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb597816-8a51-4187-b22c-871579093892" />
+
+ - **Kategori Produk** – Aksesoris, Kelistrikan, Mesin, Rangka & Body, Rem, Suspensi.
+ - **Produk Terbaru** – Tampilan produk baru dengan gambar, nama, harga, dan label "Original".
+ - **Pencarian Produk** – Kolom cari dan filter berdasarkan kategori dan rentang harga.
+ - **Detail Produk** – Nama, merek, deskripsi singkat, harga, tombol Detail dan Tambah ke Keranjang.
+ - **Harga Jelas** – Ditampilkan untuk setiap produk.
+ - **Tombol Aksi** – "Belanja Sekarang", "Lihat Kategori", "Lihat Detail", "Tambah".
+ - **Filter Samping** – Untuk menyaring berdasarkan kategori dan harga.
+ - **Tampilan Responsif** – Layout rapi dengan sidebar filter dan daftar produk.
+
+# ***Tampilan Tentang Web Toko***
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e48a4d3-505f-499c-9add-0d6359a72f24" />
+
+# ***Tampilan Halaman User dan Keranjang***
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7bd4494-ed59-46bc-9c22-5300ecc687e1" />
+
+**Fitur Website Sparepart Motor (Halaman User & Keranjang):**
+- Header dengan Logo/Nama Toko – "KEVINPARTS"
+- Menu Admin/User – Profil, pesanan, keranjang, wishlist, alamat, logout
+- Info Akun – Nama user & tanggal bergabung
+- Keranjang Belanja – Menampilkan jumlah item (jika kosong: pesan "Keranjang Belanja Kosong")
+- Tombol Aksi Utama – "Mulai Belanja" untuk kembali berbelanja
+- Footer Informasi – Slogan toko, nomor kontak, menu navigasi (Home, dll)
+- Fitur Pencarian Global – Kotak search di footer/header
+- Status Keranjang Real-time – Jumlah item update sesuai isi keranjang
