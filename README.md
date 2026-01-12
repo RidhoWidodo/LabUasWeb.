@@ -7,7 +7,7 @@
 
 
 ***Penjelasan Project. Aplikasi Toko Jual Beli Sparepart Motor.***
-*Aplikasi ini dikembangkan menggunakan konsep Object Oriented Programming (OOP) dengan struktur modular dan routing, serta dilengkapi fitur login multi-role, CRUD, pencarian data, pagination, dan desain responsif. Sistem ini dirancang agar dapat digunakan secara langsung oleh bengkel motor skala kecil hingga menengah.*
+*Aplikasi ini dikembangkan menggunakan konsep Object Oriented Programming (OOP) dengan struktur modular dan routing, serta dilengkapi fitur login multi-role, CRUD, pencarian data, pagination, dan desain responsif. Sistem ini dirancang agar dapat digunakan secara langsung oleh bengkel motor skala kecil hingga menengah.* **(Dan berikut link penjelasan lebih lengkap https://youtu.be/UIc5uAplzDA)**
 
 # Struktur Folder dan File
 **Berikut adalah struktur Folder dan File**
